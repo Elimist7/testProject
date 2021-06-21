@@ -1,3 +1,6 @@
+Rene Delara 
+100410025
+
 My project suggestion is an app called Spellbook. It is an app used to catalogue your collection of Magic the Gathering cards and allow you to easily keep track of your collection, as well as sell, trade, and buy cards. 
 
 Features we are aiming to include:
