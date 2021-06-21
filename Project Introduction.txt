@@ -1,1 +1,8 @@
 My project suggestion is an app called Spellbook. It is an app used to catalogue your collection of Magic the Gathering cards and allow you to easily keep track of your collection, as well as sell, trade, and buy cards. 
+
+Features we are aiming to include:
+Use of the camera to scan cards directly into your collection
+Integration with sites like Cardkingdom or TCGplayer to track orders and automatically add those cards to your collection
+Deckbuilding section which pulls from your collection to see what cards you are missing
+trading section that pulls data from your chosen large retailer based on chosen condition and updates your collection when the trade is completed
+Rules section that pulls from Gatherer so that interactions can be easily pulled up
